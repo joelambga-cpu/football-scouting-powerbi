@@ -1,0 +1,15 @@
+# Power BI temporary / local files
+*.pbit.tmp
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+*.code-workspace
+
+GITHUB_DESCRIPTION.txt
