@@ -98,12 +98,14 @@ football-scouting-powerbi/
 ├── docs/
 │   └── model-overview.md
 └── screenshots/
-    └── README.md
+    ├── README.md
+    ├── page-1-market-analysis.png
+    └── page-2-scouting-shortlist.png
 ```
 
 ## Open the report
 
-Download `powerbi/footballscouting.pbix` and open it with Microsoft Power BI Desktop.
+Download [footballscouting.pbix](powerbi/footballscouting.pbix) and open it with Microsoft Power BI Desktop.
 
 ## Dashboard preview
 
@@ -122,6 +124,10 @@ This page turns the benchmark logic into a scouting-oriented shortlist by compar
 ## Why I built it
 
 I am developing a portfolio at the intersection of **data analysis, business decision-making and football scouting**. This project is an example of turning football data into a practical decision-support report rather than stopping at raw statistics.
+
+## Data provenance and interpretation
+
+Source attribution, dataset dates and the refresh procedure still need documentation. The available PBIX and screenshots are a portfolio snapshot; reproducible source refresh has not been established here. Market-value deviations are screening indicators, not proof that a player is undervalued or a successful recruitment prediction.
 
 ## Next improvements
 
